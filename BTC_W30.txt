@@ -1,0 +1,512 @@
+BTC_W30
+
+price at count 1 is 6310.19
+price at count 2 is 6310.19
+price at count 3 is 6310.19
+price at count 4 is 6310.19
+price at count 5 is 6310.19
+price at count 6 is 6310.19
+price at count 7 is 6310.19
+price at count 8 is 6309.93
+price at count 9 is 6309.93
+price at count 10 is 6309.93
+price at count 11 is 6309.93
+price at count 12 is 6309.93
+price at count 13 is 6308.01
+price at count 14 is 6307.17
+price at count 15 is 6307.17
+price at count 16 is 6307.64
+price at count 17 is 6307.65
+price at count 18 is 6307.65
+price at count 19 is 6307.65
+price at count 20 is 6307.65
+price at count 21 is 6307.65
+price at count 22 is 6307.65
+price at count 23 is 6307.65
+price at count 24 is 6307.65
+price at count 25 is 6307.65
+price at count 26 is 6307.65
+price at count 27 is 6308.27
+price at count 28 is 6308.27
+price at count 29 is 6308.18
+price at count 30 is 6308.18
+average price now is: 6308.679
+bought coins at price: 6308.18 and net worth : 10000.0
+price at count 31 is 6307.09
+average price now is: 6308.57566667
+price at count 32 is 6307.09
+average price now is: 6308.47233333
+price at count 33 is 6307.09
+average price now is: 6308.369
+price at count 34 is 6307.09
+average price now is: 6308.26566667
+price at count 35 is 6307.09
+average price now is: 6308.16233333
+price at count 36 is 6306.36
+average price now is: 6308.03466667
+price at count 37 is 6306.36
+average price now is: 6307.907
+price at count 38 is 6306.37
+average price now is: 6307.78833333
+price at count 39 is 6306.37
+average price now is: 6307.66966667
+price at count 40 is 6306.37
+average price now is: 6307.551
+price at count 41 is 6306.37
+average price now is: 6307.43233333
+price at count 42 is 6306.37
+average price now is: 6307.31366667
+price at count 43 is 6306.37
+average price now is: 6307.259
+price at count 44 is 6306.37
+average price now is: 6307.23233333
+price at count 45 is 6306.37
+average price now is: 6307.20566667
+price at count 46 is 6306.37
+average price now is: 6307.16333333
+price at count 47 is 6306.37
+average price now is: 6307.12066667
+price at count 48 is 6306.37
+average price now is: 6307.078
+price at count 49 is 6306.37
+average price now is: 6307.03533333
+price at count 50 is 6306.37
+average price now is: 6306.99266667
+price at count 51 is 6306.37
+average price now is: 6306.95
+price at count 52 is 6306.37
+average price now is: 6306.90733333
+price at count 53 is 6306.37
+average price now is: 6306.86466667
+price at count 54 is 6306.37
+average price now is: 6306.822
+price at count 55 is 6306.93
+average price now is: 6306.798
+sold coins at price: 6306.93 and net worth : 9998.01844589
+price at count 56 is 6306.93
+average price now is: 6306.774
+price at count 57 is 6306.93
+average price now is: 6306.72933333
+price at count 58 is 6306.93
+average price now is: 6306.68466667
+price at count 59 is 6306.93
+average price now is: 6306.643
+price at count 60 is 6306.93
+average price now is: 6306.60133333
+price at count 61 is 6308.49
+average price now is: 6306.648
+price at count 62 is 6306.93
+average price now is: 6306.64266667
+price at count 63 is 6307.4
+average price now is: 6306.653
+price at count 64 is 6308.5
+average price now is: 6306.7
+price at count 65 is 6308.5
+average price now is: 6306.747
+price at count 66 is 6308.53
+average price now is: 6306.81933333
+price at count 67 is 6308.7
+average price now is: 6306.89733333
+price at count 68 is 6308.7
+average price now is: 6306.975
+price at count 69 is 6308.7
+average price now is: 6307.05266667
+price at count 70 is 6308.7
+average price now is: 6307.13033333
+price at count 71 is 6308.7
+average price now is: 6307.208
+price at count 72 is 6308.7
+average price now is: 6307.28566667
+price at count 73 is 6308.7
+average price now is: 6307.36333333
+price at count 74 is 6308.7
+average price now is: 6307.441
+price at count 75 is 6308.7
+average price now is: 6307.51866667
+price at count 76 is 6308.7
+average price now is: 6307.59633333
+price at count 77 is 6308.5
+average price now is: 6307.66733333
+price at count 78 is 6305.89
+average price now is: 6307.65133333
+bought coins at price: 6305.89 and net worth : 9998.01844589
+price at count 79 is 6305.96
+average price now is: 6307.63766667
+price at count 80 is 6305.96
+average price now is: 6307.624
+price at count 81 is 6305.96
+average price now is: 6307.61033333
+price at count 82 is 6306.26
+average price now is: 6307.60666667
+price at count 83 is 6306.26
+average price now is: 6307.603
+price at count 84 is 6306.26
+average price now is: 6307.59933333
+price at count 85 is 6306.26
+average price now is: 6307.577
+price at count 86 is 6308.1
+average price now is: 6307.616
+sold coins at price: 6308.1 and net worth : 10001.5224114
+price at count 87 is 6308.88
+average price now is: 6307.681
+price at count 88 is 6309.11
+average price now is: 6307.75366667
+price at count 89 is 6309.11
+average price now is: 6307.82633333
+price at count 90 is 6309.11
+average price now is: 6307.899
+price at count 91 is 6309.11
+average price now is: 6307.91966667
+price at count 92 is 6308.1
+average price now is: 6307.95866667
+price at count 93 is 6307.19
+average price now is: 6307.95166667
+bought coins at price: 6307.19 and net worth : 10001.5224114
+price at count 94 is 6307.3
+average price now is: 6307.91166667
+price at count 95 is 6307.3
+average price now is: 6307.87166667
+price at count 96 is 6307.3
+average price now is: 6307.83066667
+price at count 97 is 6307.3
+average price now is: 6307.784
+price at count 98 is 6307.3
+average price now is: 6307.73733333
+price at count 99 is 6307.3
+average price now is: 6307.69066667
+price at count 100 is 6307.3
+average price now is: 6307.644
+price at count 101 is 6307.3
+average price now is: 6307.59733333
+price at count 102 is 6307.3
+average price now is: 6307.55066667
+price at count 103 is 6307.3
+average price now is: 6307.504
+price at count 104 is 6306.95
+average price now is: 6307.44566667
+price at count 105 is 6306.95
+average price now is: 6307.38733333
+price at count 106 is 6305.78
+average price now is: 6307.29
+price at count 107 is 6305.47
+average price now is: 6307.189
+price at count 108 is 6305.47
+average price now is: 6307.175
+price at count 109 is 6305.47
+average price now is: 6307.15866667
+price at count 110 is 6305.47
+average price now is: 6307.14233333
+price at count 111 is 6303.88
+average price now is: 6307.073
+price at count 112 is 6303.88
+average price now is: 6306.99366667
+price at count 113 is 6303.88
+average price now is: 6306.91433333
+price at count 114 is 6303.88
+average price now is: 6306.835
+price at count 115 is 6303.88
+average price now is: 6306.75566667
+price at count 116 is 6303.88
+average price now is: 6306.615
+price at count 117 is 6303.45
+average price now is: 6306.434
+price at count 118 is 6302.71
+average price now is: 6306.22066667
+price at count 119 is 6300.52
+average price now is: 6305.93433333
+price at count 120 is 6299.52
+average price now is: 6305.61466667
+price at count 121 is 6299.41
+average price now is: 6305.29133333
+price at count 122 is 6299.37
+average price now is: 6305.00033333
+price at count 123 is 6295.9
+average price now is: 6304.624
+price at count 124 is 6295.9
+average price now is: 6304.244
+price at count 125 is 6295.29
+average price now is: 6303.84366667
+price at count 126 is 6295.29
+average price now is: 6303.44333333
+price at count 127 is 6295.29
+average price now is: 6303.043
+price at count 128 is 6295.29
+average price now is: 6302.64266667
+price at count 129 is 6295.29
+average price now is: 6302.24233333
+price at count 130 is 6295.29
+average price now is: 6301.842
+price at count 131 is 6295.29
+average price now is: 6301.44166667
+price at count 132 is 6296.29
+average price now is: 6301.07466667
+price at count 133 is 6298.03
+average price now is: 6300.76566667
+price at count 134 is 6298.03
+average price now is: 6300.46833333
+price at count 135 is 6299.53
+average price now is: 6300.221
+price at count 136 is 6299.53
+average price now is: 6300.01266667
+price at count 137 is 6299.39
+average price now is: 6299.81
+price at count 138 is 6299.02
+average price now is: 6299.595
+price at count 139 is 6301.17
+average price now is: 6299.45166667
+sold coins at price: 6301.17 and net worth : 9991.97629574
+price at count 140 is 6301.17
+average price now is: 6299.30833333
+price at count 141 is 6301.83
+average price now is: 6299.24
+price at count 142 is 6301.83
+average price now is: 6299.17166667
+price at count 143 is 6302.36
+average price now is: 6299.121
+price at count 144 is 6302.36
+average price now is: 6299.07033333
+price at count 145 is 6302.43
+average price now is: 6299.022
+price at count 146 is 6302.67
+average price now is: 6298.98166667
+price at count 147 is 6302.68
+average price now is: 6298.956
+price at count 148 is 6302.76
+average price now is: 6298.95766667
+price at count 149 is 6305.11
+average price now is: 6299.11066667
+price at count 150 is 6303.85
+average price now is: 6299.255
+price at count 151 is 6304.09
+average price now is: 6299.411
+price at count 152 is 6304.09
+average price now is: 6299.56833333
+price at count 153 is 6303.35
+average price now is: 6299.81666667
+price at count 154 is 6302.69
+average price now is: 6300.043
+price at count 155 is 6303.74
+average price now is: 6300.32466667
+price at count 156 is 6303.74
+average price now is: 6300.60633333
+price at count 157 is 6303.74
+average price now is: 6300.888
+price at count 158 is 6303.74
+average price now is: 6301.16966667
+price at count 159 is 6303.9
+average price now is: 6301.45666667
+price at count 160 is 6303.9
+average price now is: 6301.74366667
+price at count 161 is 6303.9
+average price now is: 6302.03066667
+price at count 162 is 6303.9
+average price now is: 6302.28433333
+price at count 163 is 6303.9
+average price now is: 6302.48
+price at count 164 is 6303.9
+average price now is: 6302.67566667
+price at count 165 is 6303.9
+average price now is: 6302.82133333
+price at count 166 is 6303.9
+average price now is: 6302.967
+price at count 167 is 6303.9
+average price now is: 6303.11733333
+price at count 168 is 6303.9
+average price now is: 6303.28
+price at count 169 is 6303.9
+average price now is: 6303.371
+price at count 170 is 6303.9
+average price now is: 6303.462
+price at count 171 is 6303.9
+average price now is: 6303.531
+price at count 172 is 6303.75
+average price now is: 6303.595
+price at count 173 is 6303.75
+average price now is: 6303.64133333
+price at count 174 is 6303.75
+average price now is: 6303.68766667
+price at count 175 is 6303.75
+average price now is: 6303.73166667
+price at count 176 is 6303.75
+average price now is: 6303.76766667
+bought coins at price: 6303.75 and net worth : 9991.97629574
+price at count 177 is 6303.75
+average price now is: 6303.80333333
+price at count 178 is 6303.75
+average price now is: 6303.83633333
+price at count 179 is 6303.75
+average price now is: 6303.791
+price at count 180 is 6303.75
+average price now is: 6303.78766667
+price at count 181 is 6303.27
+average price now is: 6303.76033333
+price at count 182 is 6302.19
+average price now is: 6303.697
+price at count 183 is 6300.52
+average price now is: 6303.60266667
+price at count 184 is 6300.52
+average price now is: 6303.53033333
+price at count 185 is 6300.52
+average price now is: 6303.423
+price at count 186 is 6300.52
+average price now is: 6303.31566667
+price at count 187 is 6296.95
+average price now is: 6303.08933333
+price at count 188 is 6297.92
+average price now is: 6302.89533333
+price at count 189 is 6298.3
+average price now is: 6302.70866667
+price at count 190 is 6298.3
+average price now is: 6302.522
+price at count 191 is 6298.3
+average price now is: 6302.33533333
+price at count 192 is 6298.3
+average price now is: 6302.14866667
+price at count 193 is 6298.3
+average price now is: 6301.962
+price at count 194 is 6298.3
+average price now is: 6301.77533333
+price at count 195 is 6298.3
+average price now is: 6301.58866667
+price at count 196 is 6298.3
+average price now is: 6301.402
+price at count 197 is 6298.3
+average price now is: 6301.21533333
+price at count 198 is 6298.3
+average price now is: 6301.02866667
+price at count 199 is 6298.3
+average price now is: 6300.842
+price at count 200 is 6298.3
+average price now is: 6300.65533333
+price at count 201 is 6300.0
+average price now is: 6300.52533333
+price at count 202 is 6300.32
+average price now is: 6300.411
+price at count 203 is 6298.3
+average price now is: 6300.22933333
+price at count 204 is 6298.01
+average price now is: 6300.038
+price at count 205 is 6298.01
+average price now is: 6299.84666667
+price at count 206 is 6298.01
+average price now is: 6299.65533333
+price at count 207 is 6297.62
+average price now is: 6299.451
+price at count 208 is 6298.07
+average price now is: 6299.26166667
+price at count 209 is 6298.07
+average price now is: 6299.07233333
+price at count 210 is 6300.36
+average price now is: 6298.95933333
+sold coins at price: 6300.36 and net worth : 9986.60285935
+price at count 211 is 6300.36
+average price now is: 6298.86233333
+price at count 212 is 6300.36
+average price now is: 6298.80133333
+price at count 213 is 6300.36
+average price now is: 6298.796
+price at count 214 is 6300.59
+average price now is: 6298.79833333
+price at count 215 is 6302.26
+average price now is: 6298.85633333
+price at count 216 is 6301.67
+average price now is: 6298.89466667
+price at count 217 is 6301.67
+average price now is: 6299.052
+price at count 218 is 6301.67
+average price now is: 6299.177
+price at count 219 is 6301.67
+average price now is: 6299.28933333
+price at count 220 is 6301.67
+average price now is: 6299.40166667
+price at count 221 is 6301.67
+average price now is: 6299.514
+price at count 222 is 6301.96
+average price now is: 6299.636
+price at count 223 is 6301.67
+average price now is: 6299.74833333
+price at count 224 is 6299.74
+average price now is: 6299.79633333
+bought coins at price: 6299.74 and net worth : 9986.60285935
+price at count 225 is 6299.57
+average price now is: 6299.83866667
+price at count 226 is 6299.62
+average price now is: 6299.88266667
+price at count 227 is 6299.63
+average price now is: 6299.927
+price at count 228 is 6299.63
+average price now is: 6299.97133333
+price at count 229 is 6299.63
+average price now is: 6300.01566667
+price at count 230 is 6299.63
+average price now is: 6300.06
+price at count 231 is 6299.63
+average price now is: 6300.04766667
+price at count 232 is 6297.45
+average price now is: 6299.952
+price at count 233 is 6297.45
+average price now is: 6299.92366667
+price at count 234 is 6297.45
+average price now is: 6299.905
+price at count 235 is 6297.45
+average price now is: 6299.88633333
+price at count 236 is 6297.45
+average price now is: 6299.86766667
+price at count 237 is 6297.45
+average price now is: 6299.862
+price at count 238 is 6299.68
+average price now is: 6299.91566667
+price at count 239 is 6299.68
+average price now is: 6299.96933333
+price at count 240 is 6300.02
+average price now is: 6299.958
+sold coins at price: 6300.02 and net worth : 9987.04672669
+price at count 241 is 6302.46
+average price now is: 6300.028
+price at count 242 is 6302.46
+average price now is: 6300.098
+price at count 243 is 6304.25
+average price now is: 6300.22766667
+price at count 244 is 6306.08
+average price now is: 6300.41066667
+price at count 245 is 6303.33
+average price now is: 6300.44633333
+price at count 246 is 6304.5
+average price now is: 6300.54066667
+price at count 247 is 6304.59
+average price now is: 6300.638
+price at count 248 is 6305.73
+average price now is: 6300.77333333
+price at count 249 is 6306.18
+average price now is: 6300.92366667
+price at count 250 is 6308.1
+average price now is: 6301.138
+price at count 251 is 6310.01
+average price now is: 6301.416
+price at count 252 is 6310.01
+average price now is: 6301.68433333
+price at count 253 is 6310.01
+average price now is: 6301.96233333
+price at count 254 is 6310.01
+average price now is: 6302.30466667
+price at count 255 is 6309.11
+average price now is: 6302.62266667
+price at count 256 is 6309.11
+average price now is: 6302.939
+price at count 257 is 6309.11
+average price now is: 6303.255
+price at count 258 is 6309.11
+average price now is: 6303.571
+price at count 259 is 6309.11
+average price now is: 6303.887
+price at count 260 is 6309.11
+average price now is: 6304.203
+price at count 261 is 6309.11
+average price now is: 6304.519
+price at count 262 is 6309.11
+average price now is: 6304.90766667
+price at count 263 is 6309.11
+average price now is: 6305.29633333
+price at count 264 is 6310.26
+average price now is: 6305.72333333
+price at count 2
